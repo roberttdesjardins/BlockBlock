@@ -48,8 +48,6 @@ public class PlayerMovement : MonoBehaviour
 	}
 
 	void Animating(float h, float v) {
-		print ("h is" + h);
-		print ("v is" + v);
 		bool walking = h != 0f || v != 0f;
 		anim.SetBool ("IsWalking", walking);
 	}
