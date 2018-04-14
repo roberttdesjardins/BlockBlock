@@ -23,7 +23,7 @@ public class EnemyAttack : MonoBehaviour
         anim = GetComponent <Animator> ();
     }
 
-
+	// Automatically called 
     void OnTriggerEnter (Collider other)
     {
         if(other.gameObject == player)
