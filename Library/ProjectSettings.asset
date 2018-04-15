@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 14
-  productGUID: 00000000000000000000000000000000
+  productGUID: 697a50cace66d4b689a8f5b411cbbf09
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   defaultScreenOrientation: 3
@@ -748,7 +748,7 @@ PlayerSettings:
   facebookSdkVersion: 7.9.1
   apiCompatibilityLevel: 2
   cloudProjectId: 16e84d38-41a2-40d4-90df-3ac480d1ae96
-  projectName: New Unity Project (1)
+  projectName: BlockBlock (1)
   organizationId: robertdesjardins
   cloudEnabled: 0
   enableNativePlatformBackendsForNewInputSystem: 0
